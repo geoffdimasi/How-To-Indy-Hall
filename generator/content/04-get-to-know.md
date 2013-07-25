@@ -52,7 +52,7 @@ If you're just getting started, you might not be sure who you can turn to for he
 > 
 > <img src="/assets/images/geoff.png" class="photo-right" />
 > 
-> **Before I joined Indy Hall, I: rocked long hair, played some seriously competitive ultimate, worked at Rolling Stone, was a multimedia professor at UArts, and had 2 kids.
+> **Before I joined Indy Hall, I:** rocked long hair, played some seriously competitive ultimate, worked at Rolling Stone, was a multimedia professor at UArts, and had 2 kids.
 > 
 > **One thing I like to teach people is:**
 > 
